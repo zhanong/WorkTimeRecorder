@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|d:\\onedrive\\_github\\worktimerecorder\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|d:\\onedrive\\_github\\worktimerecorder\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\setkeywordwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|solutionrelative:setkeywordwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\datapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|WorkTimeRecorder.csproj|solutionrelative:datapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\datapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:datapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\wtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:wtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|D:\\OneDrive\\_Github\\WorkTimeRecorder\\currentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79E2F6-FFA7-45DA-99B1-4C89C1D69EC0}|Work Timer.csproj|solutionrelative:currentwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\_Github\\WorkTimeRecorder\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SetKeyWordWindow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\SetKeyWordWindow.cs",
+              "RelativeDocumentMoniker": "SetKeyWordWindow.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\SetKeyWordWindow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SetKeyWordWindow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:34:54.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainWindow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.186Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\EventManager.cs",
+              "RelativeDocumentMoniker": "EventManager.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\EventManager.cs",
+              "RelativeToolTip": "EventManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.cs",
+              "RelativeToolTip": "MainWindow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.186Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "MainWindow.Designer.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\MainWindow.Designer.cs",
+              "RelativeToolTip": "MainWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAABAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:32:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataPersistence.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataPersistence.cs",
+              "RelativeDocumentMoniker": "DataPersistence.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataPersistence.cs",
+              "RelativeToolTip": "DataPersistence.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwC8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:32:34.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "DataProcesser.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataProcesser.cs",
+              "RelativeToolTip": "DataProcesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Debug.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Debug.cs",
+              "RelativeDocumentMoniker": "Debug.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Debug.cs",
+              "RelativeToolTip": "Debug.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataPersistence.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataPersistence.cs",
+              "RelativeDocumentMoniker": "DataPersistence.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\DataPersistence.cs",
+              "RelativeToolTip": "DataPersistence.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwC8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrentWindow.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\CurrentWindow.cs",
+              "RelativeDocumentMoniker": "CurrentWindow.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\CurrentWindow.cs",
+              "RelativeToolTip": "CurrentWindow.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyboardHook.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\KeyboardHook.cs",
+              "RelativeDocumentMoniker": "KeyboardHook.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\KeyboardHook.cs",
+              "RelativeToolTip": "KeyboardHook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WTimer.cs",
+              "DocumentMoniker": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\WTimer.cs",
+              "RelativeDocumentMoniker": "WTimer.cs",
+              "ToolTip": "D:\\OneDrive\\_Github\\WorkTimeRecorder\\WTimer.cs",
+              "RelativeToolTip": "WTimer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwGcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:31:44.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
