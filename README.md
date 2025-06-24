@@ -1,3 +1,5 @@
+[View on Github](https://github.com/zhanong/WorkTimeRecorder)
+
 Tired of manually starting and stopping your time tracker? Frustrated when you forget to toggle it on or off?
 
 This is the app for you. It's a lightweight, silent utility that automatically records your work time, guaranteeing you an uninterrupted and immersive work experience.
